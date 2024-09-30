@@ -50,3 +50,27 @@ hapusDokter: Menghapus dokter dari daftar berdasarkan ID.
 hapusPasien: Menghapus pasien dari daftar berdasarkan ID.
 
 Program ini adalah contoh sederhana sistem manajemen rumah sakit yang memungkinkan operasi dasar CRUD (Create, Read, Update, Delete) untuk dokter dan pasien.
+
+
+
+![Cuplikan layar 2024-09-30 083937](https://github.com/user-attachments/assets/858729f4-12a8-40d0-88fa-caa83412ad81)
+
+![Cuplikan layar 2024-09-30 084016](https://github.com/user-attachments/assets/7563e8cc-8a0d-4485-9215-179b5a0e2ef9)
+
+![Cuplikan layar 2024-09-30 084107](https://github.com/user-attachments/assets/5b06f1bc-fa5a-4047-9c83-19d96673519e)
+
+![Cuplikan layar 2024-09-30 084313](https://github.com/user-attachments/assets/2a963de1-1c2c-4869-8a8c-af49a06f48e5)
+
+![Cuplikan layar 2024-09-30 084421](https://github.com/user-attachments/assets/7978605c-251d-406c-9c89-50a698af226f)
+
+![Cuplikan layar 2024-09-30 084454](https://github.com/user-attachments/assets/e817a5e1-9c79-4bbb-98d9-0501fcf832bc)
+
+
+
+
+
+
+
+
+
+
