@@ -65,6 +65,7 @@ Program ini adalah contoh sederhana sistem manajemen rumah sakit yang memungkink
 
 ![Cuplikan layar 2024-09-30 084454](https://github.com/user-attachments/assets/e817a5e1-9c79-4bbb-98d9-0501fcf832bc)
 
+![Cuplikan layar 2024-09-30 084824](https://github.com/user-attachments/assets/e426f608-31f1-4cc3-82be-788c0fd359f4)
 
 
 
